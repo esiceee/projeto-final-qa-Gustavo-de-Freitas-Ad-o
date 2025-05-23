@@ -17,13 +17,13 @@ Qualidade em software e cultura de qualidade
 Tipos de testes: São diversos tipos de restezinhos que acabam agregando no resultado final, testes unitários que testam uma função várias vezes, exploratórios que nos colocam na pele de um usuário ou até os seguros testes de regressão que corrigem bugs sem afetar no funcionamento atual, basicamente eles vão nos ajudar com coisas simples e podem ser automatizados com diversas línguas de código.
 
 
-Planejamento de testes: Planejar quais testes vão ser relevantes para cada tipo de aplicação, 
+Planejamento de testes: Planejar quais testes vão ser relevantes para cada tipo de aplicação (escopo), os critérios de aceitação, cronograma e etc.
 
 
-Ferramentas de testes utilizadas durante o semestre
+Ferramentas de testes utilizadas durante o semestre: Foram utilizadas diversas ferramentas, tais como: Selenium e pytest integrando no GitHub que agregam muito na garantia de qualidade
 
 
-Automação de testes e integração com CI/CD
+Automação de testes e integração com CI/CD: É fundamental para manter uma boa pipeline, ao automatizar testes podemos definir um meio padrão para que o mesmo teste seja repetido diversas vezes, sempre visando obter um resultado como "padrão" em uma sequência de testes para que os erros sejam identificados e tratados mais facilmente.
 
 
-Monitoramento e controle de qualidade: A parte "final" dos projetos, no qual pegamos todos os nossos testes já realizados e mantemos o monitoramento geral do uso por diversos usuários
+Monitoramento e controle de qualidade: A parte "final" dos projetos, no qual pegamos todos os nossos testes já realizados e mantemos o monitoramento geral do uso por diversos usuários e o objetivo seria manter o aplicativo estável e funcionando de acordo com a demanda
