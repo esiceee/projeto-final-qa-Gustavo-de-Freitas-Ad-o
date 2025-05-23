@@ -27,3 +27,12 @@ Automação de testes e integração com CI/CD: É fundamental para manter uma b
 
 
 Monitoramento e controle de qualidade: A parte "final" dos projetos, no qual pegamos todos os nossos testes já realizados e mantemos o monitoramento geral do uso por diversos usuários e o objetivo seria manter o aplicativo estável e funcionando de acordo com a demanda
+___________________________________________________________________________
+4. Ferramentas e Sites Utilizados
+https://reqres.in/
+https://colab.research.google.com/
+https://github.com/
+https://uptimerobot.com/
+https://fakefiller.com/
+Ghost Specter
+___________________________________________________________________________
