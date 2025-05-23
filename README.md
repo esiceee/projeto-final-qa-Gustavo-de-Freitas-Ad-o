@@ -37,8 +37,8 @@ ___________________________________________________________________________
 - Ghost Specter
 ___________________________________________________________________________
 5. Explicação dos Testes Entregues
- Teste 1
-Nome do teste: Teste unitário
+* Teste 1
+- Nome do teste: Teste unitário
 
 Objetivo:
 O código define uma função simples de soma e, em seguida, cria uma classe de teste para verificar se essa função funciona corretamente em diferentes cenários:
@@ -52,5 +52,9 @@ Qual biblioteca Python foi utilizada: unittest
 Qual resultado esperado: Que a soma dos números seja igual as esperadas.
 Link para o arquivo:
 
- Teste 2
-
+* Teste 2
+- Nome do teste: Tesde de API
+Objetivo: Verificar se a API "JSONPlaceholder" funciona.
+Qual biblioteca Python foi utilizada: unittest e requests
+Qual resultado esperado: Que a API responda com sucesso com um code "201" e que esteja funcionando e o título do post que foi enviado esteja correto.
+Link para o arquivo:
