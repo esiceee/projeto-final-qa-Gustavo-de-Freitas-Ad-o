@@ -38,13 +38,19 @@ ___________________________________________________________________________
 ___________________________________________________________________________
 5. Explicação dos Testes Entregues
  Teste 1
-Nome do teste
+Nome do teste: Teste unitário
 
-Objetivo
+Objetivo:
+O código define uma função simples de soma e, em seguida, cria uma classe de teste para verificar se essa função funciona corretamente em diferentes cenários:
+Somando números positivos.
+Somando números negativos.
+Somando zero.
+Cada teste usa asserções (self.assertEqual) para verificar se o resultado da função somar corresponde ao valor esperado. Se todas as asserções passarem, os testes são considerados bem-sucedidos. Caso contrário, o unittest relata quais testes falharam.
 
-Qual biblioteca Python foi utilizada
+Qual biblioteca Python foi utilizada: unittest
 
-Qual resultado esperado
+Qual resultado esperado: Que a soma dos números seja igual as esperadas.
+Link para o arquivo:
 
-Link para o arquivo
+ Teste 2
 
