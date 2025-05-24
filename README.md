@@ -40,21 +40,29 @@ ___________________________________________________________________________
 * Teste 1
 - Nome do teste: Teste unitário
 
-Objetivo:
+- Objetivo:
 O código define uma função simples de soma e, em seguida, cria uma classe de teste para verificar se essa função funciona corretamente em diferentes cenários:
 Somando números positivos.
 Somando números negativos.
 Somando zero.
-Cada teste usa asserções (self.assertEqual) para verificar se o resultado da função somar corresponde ao valor esperado. Se todas as asserções passarem, os testes são considerados bem-sucedidos. Caso contrário, o unittest relata quais testes falharam.
+- Cada teste usa asserções (self.assertEqual) para verificar se o resultado da função somar corresponde ao valor esperado. Se todas as asserções passarem, os testes são considerados bem-sucedidos. Caso contrário, o unittest relata quais testes falharam.
 
-Qual biblioteca Python foi utilizada: unittest
+- Qual biblioteca Python foi utilizada: unittest
 
-Qual resultado esperado: Que a soma dos números seja igual as esperadas.
-Link para o arquivo:
+- Qual resultado esperado: Que a soma dos números seja igual as esperadas.
+- Link para o arquivo:
 
 * Teste 2
 - Nome do teste: Tesde de API
-Objetivo: Verificar se a API "JSONPlaceholder" funciona.
-Qual biblioteca Python foi utilizada: unittest e requests
-Qual resultado esperado: Que a API responda com sucesso com um code "201" e que esteja funcionando e o título do post que foi enviado esteja correto.
-Link para o arquivo:
+- Objetivo: Verificar se a API "JSONPlaceholder" funciona.
+- Qual biblioteca Python foi utilizada: unittest e requests
+- Qual resultado esperado: Que a API responda com sucesso com um code "201" e que esteja funcionando e o título do post que foi enviado esteja correto.
+- Link para o arquivo:
+
+
+* Teste 3
+* Nome do teste: Tesde de API
+- Objetivo: 
+- Qual biblioteca Python foi utilizada: 
+- Qual resultado esperado: 
+- Link para o arquivo:
