@@ -39,30 +39,30 @@ ___________________________________________________________________________
 5. Explicação dos Testes Entregues
 * Teste 1
 - Nome do teste: Teste unitário
-
 - Objetivo:
 O código define uma função simples de soma e, em seguida, cria uma classe de teste para verificar se essa função funciona corretamente em diferentes cenários:
 Somando números positivos.
 Somando números negativos.
 Somando zero.
 - Cada teste usa asserções (self.assertEqual) para verificar se o resultado da função somar corresponde ao valor esperado. Se todas as asserções passarem, os testes são considerados bem-sucedidos. Caso contrário, o unittest relata quais testes falharam.
-
 - Qual biblioteca Python foi utilizada: unittest
-
 - Qual resultado esperado: Que a soma dos números seja igual as esperadas.
-- Link para o arquivo:
+- Link para o arquivo: Testes/Teste_01.py
 
 * Teste 2
 - Nome do teste: Tesde de API
 - Objetivo: Verificar se a API "JSONPlaceholder" funciona.
 - Qual biblioteca Python foi utilizada: unittest e requests
 - Qual resultado esperado: Que a API responda com sucesso com um code "201" e que esteja funcionando e o título do post que foi enviado esteja correto.
-- Link para o arquivo:
+- Link para o arquivo: Testes/Teste_02.py
 
 
 * Teste 3
 * Nome do teste: Web scraping
 - Objetivo: Identificar todos os links no site da Nasa
-- Qual biblioteca Python foi utilizada: BeautifulSoup e unittest
-- Qual resultado esperado: 
+- Qual biblioteca Python foi utilizada: BeautifulSoup e requests
+- Qual resultado esperado: Que a ferramenta acesse o site da Nasa e consiga "scrappar" todos os links e colocar eles em uma lista.
 - Link para o arquivo: Testes/Teste_03.py
+___________________________________________________________________________
+6. Conclusão Final
+Aprender os tipos de testes que existem foi muito importante, ainda mais com as várias ferramentas que nos foram apresentadas durante nosso semestre, sobre meu futuro como QA, por mais que eu não vá adentrar de cabeça na área (ainda) acredito que ter uma base é importante para tocar qualquer projeto pessoal ou corporativo para frente evitando ao máximo qualquer empecilho no futuro, uma das ferramentas que mais curti foi o Selenium, ele é bem prático pra colocar informações em diversos tipos de site diferentes, permitindo a automação de tarefas básicas por toda a internet pra seja lá qual uso você tiver.
